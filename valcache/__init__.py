@@ -6,5 +6,5 @@ from valcache.encrypted_cache import EncryptedValCache
 #   - ValCache: Normal plaintext caching with JSON support.
 #   - EncryptedValCache: Transparent AES-128 encryption via mores-encryption.
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 __all__ = ["ValCache", "EncryptedValCache"]
