@@ -38,12 +38,10 @@ classifiers = [
 dependencies = [
     "redis>=5.0",
     "python-dotenv>=1.0",
+    "mores-encryption>=0.1.4",
 ]
 
 [project.optional-dependencies]
-encrypted = [
-    "mores-encryption>=0.1.4",
-]
 dev = [
     "pytest>=7.0",
     "pytest-asyncio>=0.21",

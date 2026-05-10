@@ -18,14 +18,8 @@ Perfect for securing PII, medical data, API keys, session tokens, or any sensiti
 
 ## 📦 Installation
 
-**Normal mode only:**
 ```bash
 pip install valcache
-```
-
-**With encryption support:**
-```bash
-pip install valcache[encrypted]
 ```
 
 ---
