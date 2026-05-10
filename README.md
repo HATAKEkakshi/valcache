@@ -1,4 +1,4 @@
-# 🚀 ValCache
+#  ValCache
 
 [![PyPI](https://img.shields.io/pypi/v/valcache?color=blue)](https://pypi.org/project/valcache/)
 [![Python](https://img.shields.io/pypi/pyversions/valcache)](https://pypi.org/project/valcache/)
